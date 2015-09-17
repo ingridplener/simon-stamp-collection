@@ -1,6 +1,6 @@
 Simon's stamp collection
 ---
 
-# About
+# About Simon
 
 Stuff about Simon's stamps here... 
